@@ -1,0 +1,201 @@
+[
+    {
+      "id": 1,
+      "key": "XRAYLG",
+      "name": "X-Ray Test",
+      "visit": "https://www.pagecloud.com/blog/web-design-guide",
+      "description": "X-ray is a quick, painless test that produces images of the structures inside your body — particularly your bones. X-ray beams pass through your body, and they are absorbed in different amounts depending on the density of the material they pass through.",
+      "time": "24 hour",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Projectional_radiography_components.jpg",
+      "icon": "https://www.pngitem.com/pimgs/m/337-3371541_xray-clipart-svg-x-ray-icon-png-transparent.png",
+  
+      "facility": "modern",
+  
+      "price": "$40"
+    },
+  
+    {
+      "id": 2,
+      "key": "labt",
+      "name": "Laboratory Service",
+      "visit": "https://en.wikipedia.org/wiki/Medical_laboratory",
+      "description": "Generally, a clinical laboratory or medical laboratory is a place where tests are performed on clinical specimens (also known as a patient sample), such as blood or urine, and the results analyzed.",
+      "time": "24 hour",
+      "image": "https://www.moleculeralabs.com/thirddev/wp-content/uploads/2015/03/Laboratory_LHS_Lab.jpg",
+      "icon": "https://icons.iconarchive.com/icons/designbolts/seo/256/Web-Development-icon.png",
+  
+      "facility": "modern",
+  
+      "price": "$30"
+    },
+  
+    {
+      "id": 3,
+      "key": "NURS",
+      "name": "Nursing Service",
+      "visit": "https://99designs.com/blog/tips/types-of-graphic-design/",
+      "description": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
+  
+      "time": "24 hour",
+      "image": "https://patientcarehomeservicebd.com/wp-content/uploads/2018/07/nursing-care-service-by-patientcarehomeservicebd.png",
+      "icon": "https://www.seekpng.com/png/detail/347-3474881_at-forwardjump-marketing-we-focus-on-bringing-our.png",
+  
+      "facility": "modern",
+  
+      "price": "$25"
+    },
+  
+    {
+      "id": 4,
+      "key": "DGNT",
+      "name": "Diagnostic Service",
+      "visit": "https://www.thecompleteuniversityguide.co.uk/subject-guide/art-and-design",
+      "description": "Diagnostic Services means services provided for the purpose of determining the nature and cause of a condition, illness, or injury.Diagnostic care includes tests/procedures ordered by a physician and office visits needed to help diagnose or monitor your condition or disease. Diagnostic tools include radiology, ultrasound, nuclear medicine, laboratory, pathology services, and other tests.",
+      "time": "24 hour",
+  
+      "image": "https://4.imimg.com/data4/TK/PV/GLADMIN-36246396/diagnostics-services-500x500.jpg",
+      "icon":"https://static.thenounproject.com/png/589974-200.png",
+  
+      "facility": "modern",
+  
+      "price": "$35"
+    },
+    {
+      "id": 5,
+      "key": "SUGRZHKN",
+      "name": "Surgical operation",
+      "visit": "https://en.wikipedia.org/wiki/Video_editing",
+      "description": "Surgical services include; use of operation room and recovery room, operative and cutting- procedures, treatment of fractures and dislocations, surgical dressings, and other medically necessary services. Surgical services under the direction of a qualified doctor of medicine or osteopathy.",
+      "time": "24 hour",
+      "image": "https://www.ssmhealth.com/SSMHealth/media/Images/Conditions%20and%20Treatments/Regional%20Tiles/surgeons-in-surgery3.jpg",
+
+      "icon": "https://cdn-icons-png.flaticon.com/512/2886/2886890.png",
+      "facility": "modern",
+  
+      "price": "$60"
+    },
+  
+    {
+      "id": 6,
+      "key": "CORDLG",
+      "name": "Cardiology",
+      "teacher": "Alex hamerd",
+      "visit": "https://backlinko.com/hub/content/writing",
+      "description": "Cardiology focuses on the diagnosis and treatment of the cardiovascular system - heart, arteries, and veins. Your Cardiologist may order specialized testing to determine which treatment options are best for you.",
+      "time": "24 hour",
+      "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX34545273.jpg",
+      "icon": "https://www.kindpng.com/picc/m/255-2557629_content-writing-icon-transparent-content-writing-services-hd.png",
+      "facility": "modern",
+  
+      "price": "$50"
+    },
+    {
+      "id": 7,
+      "key": "DNTL",
+      "name": "Dental",
+      "teacher": "Alex hamerd",
+      "visit": "https://www.agitraining.com/design-news/photoshop-training-news/what-photoshop",
+      "description": "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery.",
+      "time": "24 hour",
+      "image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/C9DA/production/_107047615_dentist2.jpg",
+      "icon": "https://www.kindpng.com/picc/m/255-2557629_content-writing-icon-transparent-content-writing-services-hd.png",
+      "facility": "modern",
+  
+      "price": "$35"
+    },
+    {
+      "id": 8,
+      "key": "NURLYG",
+      "name": "Neurology Department",
+      "teacher": "Alex hamerd",
+      "visit": "https://www.agitraining.com/design-news/photoshop-training-news/what-photoshop",
+  
+      "description": "Neurology Department offers management of a variety of neurological conditions in both adults and children; the most common include: ... Cerebral palsy and other developmental disorders of children. Behavioural disorders. Degenerative brain diseases. Memory problems/ dementia.",
+      "time": "24 hour",
+      "image": "https://dcimch.com/hospital/wp-content/uploads/2016/11/neuro.jpg",
+      "icon": "https://www.kindpng.com/picc/m/255-2557629_content-writing-icon-transparent-content-writing-services-hd.png",
+      "facility": "modern",
+  
+      "price": "$48"
+    },
+    {
+      "id": 9,
+      "key": "APDT",
+      "name": "Therapeutic",
+      "teacher": "Alex hamerd",
+      "visit": "https://www.agitraining.com/design-news/photoshop-training-news/what-photoshop",
+  
+      "description": "The therapeutic services pathway includes occupations focused primarily on changing the health status of patients over time through direct care, treatment, counseling, or health education information.",
+      "time": "24 hour",
+      "image": "https://cdn-prod.medicalnewstoday.com/content/images/articles/160/160645/senior-man-receiving-physical-therapy-for-arm-and-shoulder.jpg",
+      "icon": "https://www.clipartmax.com/png/middle/166-1660086_image-android-app-development-logo.png",
+      "facility": "modern",
+  
+      "price": "$40"
+    },
+    {
+        "id": 10,
+        "key": "APDT",
+        "name": "Opthal Mology",
+        "teacher": "Alex hamerd",
+        "visit": "https://www.agitraining.com/design-news/photoshop-training-news/what-photoshop",
+    
+        "description": "Ophthalmologists are medical doctors. They have completed specialist training in medicine and surgery of the eyes. They carry out eye tests, diagnose and treat all eye diseases and perform eye surgery. You may see an ophthalmologist in a local private practice, a hospital eye clinic or in a public health clinic.",
+        "time": "24 hour",
+        "image": "https://st.focusedcollection.com/13422768/i/650/focused_259077292-stock-photo-ophthalmologist-examining-boy-eyes-slit.jpg",
+        "icon": "https://www.clipartmax.com/png/middle/166-1660086_image-android-app-development-logo.png",
+        "facility": "modern",
+    
+        "price": "$30"
+      },
+      {
+        "id": 11,
+        "key": "APDT",
+        "name": "ICU",
+        "teacher": "Alex hamerd",
+        "visit": "https://www.agitraining.com/design-news/photoshop-training-news/what-photoshop",
+    
+        "description": "Intensive care units cater to patients with severe and life-threatening illnesses & injuries, which require constant attention, close monitoring and support from highly advanced and specialized equipment and medications in order to ensure and maintain normal bodily functions.",
+        "time": "24 hour",
+        "image": "https://stvincentsicu.com/wp-content/uploads/2019/11/ICU_bedspace_old.jpg",
+        "icon": "https://www.clipartmax.com/png/middle/166-1660086_image-android-app-development-logo.png",
+        "level": "Premium",
+    
+        "price": "$45"
+      },
+      {
+        "id": 11,
+        "key": "APDT",
+        "name": "CCU",
+        "teacher": "Alex hamerd",
+        "visit": "https://www.agitraining.com/design-news/photoshop-training-news/what-photoshop",
+    
+        "description": "A coronary care unit (CCU) or cardiac intensive care unit (CICU) is a hospital ward specialized in the care of patients with heart attacks, unstable angina, cardiac dysrhythmia and (in practice) various other cardiac conditions that require continuous monitoring and treatment.",
+        "time": "24 hour",
+        "image": "https://difference.guru/wp-content/uploads/2017/06/cws_59482e71ed664.png",
+        "icon": "https://www.clipartmax.com/png/middle/166-1660086_image-android-app-development-logo.png",
+        "level": "Premium",
+    
+        "price": "$40"
+      },
+
+  
+      {
+        "id": 13,
+        "key": "APDT",
+        "name": "Ambulance Service",
+        "teacher": "Alex hamerd",
+        "visit": "https://www.agitraining.com/design-news/photoshop-training-news/what-photoshop",
+    
+        "description": "Emergency medical services (EMS), also known as ambulance services or paramedic services, are emergency services that provide urgent pre-hospital treatment and stabilisation for serious illness and injuries and transport to definitive care.",
+        "time": "24 hour",
+        "image": "https://www.dhakaambulance.com.bd/public/assets/img/home1.png",
+        "icon": "https://www.clipartmax.com/png/middle/166-1660086_image-android-app-development-logo.png",
+        "level": "Premium",
+    
+        "price": "$88"
+      }
+  
+    
+  ]
+  

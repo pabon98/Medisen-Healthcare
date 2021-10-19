@@ -1,0 +1,19 @@
+.home{
+    background-image: url(../../images/section-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* max-width: 100%; */
+    
+}
+.container p{
+    font-weight: 400;
+}
+.container button{
+    margin-bottom: 200px;
+}
+
+@media only screen and (max-width: 688px) {
+    img {
+    width: 100%;
+    }
+    }

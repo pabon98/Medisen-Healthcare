@@ -1,0 +1,8 @@
+.banner button{
+    background-color:rgb(13, 110, 253);
+    color: white;
+}
+.banner button:hover{
+    background-color: rgb(13, 135, 235);
+    color:whitesmoke;
+}
