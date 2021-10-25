@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useContext } from "react";
 import useAuth from "../../hooks/useAuth";
 import { useState } from "react";
 import {
@@ -10,6 +10,7 @@ import {
 } from "firebase/auth";
 
 import "./Login.css";
+
 
 const Login = () => {
   const auth = getAuth();
