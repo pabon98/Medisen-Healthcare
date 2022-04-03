@@ -1,6 +1,7 @@
-import React, { useContext } from "react";
+import React from "react";
 import useAuth from "../../hooks/useAuth";
 import { useState } from "react";
+import login from '../../images/Login.png'
 import {
   getAuth,
   createUserWithEmailAndPassword,
@@ -84,36 +85,41 @@ const Login = () => {
   };
 
   return (
-    <form className="w-50 ms-auto me-auto" onSubmit={handleRegistration}>
+    <div>
+      <div className="row">
+        <div className="col-md-5">
+         <img className="w-100" src={login} alt="" />
+        </div>
+        <div className="col-md-6">
+        <form className="w-75 ms-auto me-auto mt-5" onSubmit={handleRegistration}>
       <div className="bg-white">
         <h2 className="text-info justify-content-center">
           Please {isLogin1 ? "Login" : "Register"}
         </h2>
 
         <div className="form">
-          <div className="row"></div>
-          <div className="row">
-            <div className="col mt-md-0 mt-3">
-              {" "}
-              <label className="text-start">Email</label>{" "}
+      
+            <div className="mt-3">
+         
+              <label className="text-start">Email</label>
               <input
                 onBlur={handleEmailChange}
                 type="email"
                 className="form-control"
                 required
-              />{" "}
+              />
             </div>
-          </div>
+          
           <div className="row">
             <div className="col mt-md-0 mt-3">
-              {" "}
-              <label className="text-start">Password</label>{" "}
+           
+              <label className="text-start">Password</label>
               <input
                 onBlur={handlePasswordChange}
                 type="password"
                 className="form-control"
                 required
-              />{" "}
+              />
             </div>
           </div>
           <div className="d-flex mx-1 justify-content-center">
@@ -130,7 +136,7 @@ const Login = () => {
           <div className="text-danger fw-bold">{error}</div>
           <button className="btn btn-outline-dark mt-3 mx-2">
             {isLogin1 ? "Login" : "Register"}
-          </button>{" "}
+          </button>
           <br /> <br />
           <button
             type="button"
@@ -138,7 +144,7 @@ const Login = () => {
             className="btn btn-warning btn-sm"
           >
             Reset Password
-          </button>{" "}
+          </button>
           <br />
           <button
             onClick={signInUsingGoogle}
@@ -149,6 +155,9 @@ const Login = () => {
         </div>
       </div>
     </form>
+        </div>
+      </div>
+    </div>
   );
 };
 export default Login;
